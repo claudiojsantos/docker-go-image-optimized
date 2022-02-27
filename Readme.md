@@ -1,5 +1,7 @@
 # Dockerize Smaller Image Go
 
+Resposta ao Desafio do Módulo de Docker do Curso FullCycle.
+
 
 ### Build do Projeto
 <!-- Build Image  --> 
